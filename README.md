@@ -1,2 +1,2 @@
 # el-minaderos-MT-Processing-examples
-This repo contains a series of jupyter notebooks designed to illustrate how one might go from a nonstandard tipper only data format through to a robust inversion. The data are from 29 stations arranged across the Denali Fault in Canada.
+This repo contains a series of jupyter notebooks designed to run you through basic magnetotelluric data processing and interpretation. At the moment the repo only has one example which uses Tipper data from 29 stations positioned along the denail fault. While Id like to show a simPEG, ModEM and HexMT example eventually, for now I limit myself to prepping the data for Occam2D.
