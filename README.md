@@ -1,2 +1,2 @@
-# el-minaderos-MT-Processing-examples
-This repo contains a series of jupyter notebooks designed to run you through basic magnetotelluric data processing and interpretation. At the moment the repo only has one example which uses Tipper data from 29 stations positioned along the Denail fault. While I'd like to show a simPEG, ModEM, and HexMT example eventually, for now I limit myself to prepping the data for Occam2D.
+Tipper only MT processing examples
+This repo contains a series of jupyter notebooks designed to run you through basic magnetotelluric data processing and interpretation. The repo has one example which uses tipper data from 29 stations positioned along the Denail fault using Occam2D.
